@@ -1,3 +1,5 @@
+**Contact:** aycignl@gmail.com <br>
+
 ## References
 
 [1] **Word2Vec Turkish:** https://github.com/akoksal/Turkish-Word2Vec <br>

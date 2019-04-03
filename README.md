@@ -1,6 +1,3 @@
-# python_hour
-Includes documents related to Python Hour #87
-
 ## References
 
 [1] **Word2Vec Turkish:** https://github.com/akoksal/Turkish-Word2Vec <br>
